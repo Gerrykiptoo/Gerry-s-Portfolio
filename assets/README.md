@@ -1,6 +1,8 @@
 # Gerry Biwott - Portfolio 🌐  
-[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-Visit%20My%20Portfolio-blue)](https://gerrykiptoo.github.io/Gerry-s-Portfolio)  
-*A modern portfolio showcasing my Full Stack Development and DevOps expertise*
+[![Live Demo]](https://gerrykiptoo.github.io/Gerry-s-Portfolio)  
+
+
+A modern, responsive portfolio website showcasing my skills, projects, and professional journey as a Full Stack Developer and DevOps Engineer.A modern, responsive portfolio website showcasing my skills, projects, and professional journey as a Full Stack Developer and DevOps Engineer.
 
 ---
 
@@ -16,7 +18,6 @@
 ## 🛠️ Technologies Used
 - **Frontend**: HTML5, CSS3, JavaScript
 - **Tools**: GitHub Pages, Font Awesome, Google Fonts
-- **Design**: CSS Grid/Flexbox, Modern Animations
 
 ---
 
@@ -44,10 +45,10 @@ Your site will be live at:
 ---
 
 ## 📬 Contact Me
-- ✉️ Email: [gerry.kiptoo@gmail.com](mailto:gerry.kiptoo@gmail.com)
-- 💼 LinkedIn: [Gerry Biwott](https://www.linkedin.com/in/gerry-biwott)
+- ✉️ Email: [gerry.kiptoo@gmail.com](mailto:gerrykiptoo@gmail.com)
+- 💼 LinkedIn: [Gerry Biwott](linkedin.com/in/gerry-biwott-b886b1299)
 - 🐙 GitHub: [@Gerrykiptoo](https://github.com/Gerrykiptoo)
 
 ---
 
-*© 2023 Gerry Biwott - [MIT License](LICENSE)*
+*© 2023 Gerry Biwott - [Made out of love](LICENSE)*
